@@ -1,0 +1,266 @@
+{
+    "status": "ok",
+    "totalResults": 37,
+    "articles": [
+      {
+        "source": {
+          "id": null,
+          "name": "[Removed]"
+        },
+        "author": null,
+        "title": "[Removed]",
+        "description": "[Removed]",
+        "url": "https://removed.com",
+        "urlToImage": null,
+        "publishedAt": "1970-01-01T00:00:00Z",
+        "content": "[Removed]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "[Removed]"
+        },
+        "author": null,
+        "title": "[Removed]",
+        "description": "[Removed]",
+        "url": "https://removed.com",
+        "urlToImage": null,
+        "publishedAt": "1970-01-01T00:00:00Z",
+        "content": "[Removed]"
+      },
+      {
+        "source": {
+          "id": "cnn",
+          "name": "CNN"
+        },
+        "author": "Ashley Williams, Elliana Hebert, Sara Tonks",
+        "title": "Already soggy California braces for next round of rain with flood watches and evacuations - CNN",
+        "description": "The National Weather Service issued a flood watch set to begin Sunday afternoon for Santa Barbara County in Southern California as the second round of wet weather set to soak much of the state this weekend begins to dump additional moisture farther south over…",
+        "url": "https://www.cnn.com/2024/02/18/weather/california-storm-rain-flooding-sunday/index.html",
+        "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/ap24037856151615.jpg?c=16x9&q=w_800,c_fill",
+        "publishedAt": "2024-02-18T14:05:00Z",
+        "content": "Flood watches stretch along much of the California coast and some evacuation warnings have been ordered as another round of heavy rain rolls into the already soaked state and the threat of floods and… [+3589 chars]"
+      },
+      {
+        "source": {
+          "id": "politico",
+          "name": "Politico"
+        },
+        "author": null,
+        "title": "Turner defends releasing cryptic statement about Russia's nuclear capabilities in space - POLITICO",
+        "description": "\"I was concerned that it appeared that the administration was sleepwalking into an international crisis,” the Ohio Republican said.",
+        "url": "https://www.politico.com/news/2024/02/18/turner-statement-russia-nuclear-capabilities-in-space-00142061",
+        "urlToImage": "https://static.politico.com/1d/9e/1af01f3d478c947e0870283fe886/united-states-russia-59093.jpg",
+        "publishedAt": "2024-02-18T13:34:13Z",
+        "content": "Rep. Andy Ogles (R-Tenn.), a member of the far-right House Freedom Caucus, called on Speaker Mike Johnson on Thursday to launch a formal inquiry into Turners statement, accusing Turner of trying to b… [+534 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "BBC News"
+        },
+        "author": null,
+        "title": "WHO says Gaza's Nasser hospital not functional after Israel raids - BBC.com",
+        "description": "Israeli forces say intelligence suggested hostages were being held at the Nasser site by Hamas.",
+        "url": "https://www.bbc.com/news/world-middle-east-68330579",
+        "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/11B95/production/_132679527_b96a1ca344bf66fc110fbab026d25b7d7484de9b121_679_4392_24701000x563.jpg",
+        "publishedAt": "2024-02-18T13:00:59Z",
+        "content": "Watch: Inside Nasser hospital as Israeli forces launch raid\r\nThe World Health Organization has said Gaza's Nasser hospital has ceased to function following an Israeli raid.\r\nIsrael Defense Force (IDF… [+4870 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "Daytona Beach News-Journal"
+        },
+        "author": "John Gallas, Dan Rorabaugh, Ken Willis",
+        "title": "Daytona 500 weather 2024: Is the race canceled or postponed? - Daytona Beach News-Journal",
+        "description": "The Sunday morning forecast has now confirmed fears for Daytona 500 fans and participants that rain will persist all through Sunday.",
+        "url": "https://www.news-journalonline.com/story/sports/nascar/2024/02/18/daytona-weather-race-cancelled-postponed-rain-probability/72650657007/",
+        "urlToImage": "https://www.news-journalonline.com/gcdn/authoring/images/smg/2024/02/18/USAT/72486135007-USATSI_22146411.jpeg?crop=3280,1845,x0,y77&width=3200&height=1800&format=pjpg&auto=webp",
+        "publishedAt": "2024-02-18T12:49:41Z",
+        "content": "BREAKING UPDATE: The Daytona 500 is now rescheduled for Monday. This story is updating with details.\r\nThe Daytona 500 will not be run Sunday because of rains expected throughout the day.\r\nThe Sunday … [+3799 chars]"
+      },
+      {
+        "source": {
+          "id": "usa-today",
+          "name": "USA Today"
+        },
+        "author": "Medora Lee",
+        "title": "How much to save for retirement healthcare: The number is rising - USA TODAY",
+        "description": "A recent survey of 2,202 adults last month showed only 4 in 10 have a nest egg, even though 74% expect to retire at 64.",
+        "url": "https://www.usatoday.com/story/money/personalfinance/2024/02/18/how-much-to-save-for-retirement-healthcare/72588899007/",
+        "urlToImage": "https://www.usatoday.com/gcdn/-mm-/9e1f6e2ee20f44aa1f3be4f71e9f3e52b6ae2c7e/c=0-110-2121-1303/local/-/media/2019/12/14/USATODAY/usatsports/doctortalkingtosenior-davita.jpg?width=2121&height=1193&fit=crop&format=pjpg&auto=webp",
+        "publishedAt": "2024-02-18T12:00:44Z",
+        "content": "What would you and your spouse do with $351,000 when you retire?  \r\nThat may sound like a nice nest egg, but you may need every penny just to cover health care costs in retirement, including Medicare… [+4740 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "CNBC"
+        },
+        "author": "Melissa Repko, Leslie Josephs",
+        "title": "Companies — profitable or not — make 2024 the year of cost cuts - CNBC",
+        "description": "The largest U.S. companies are cutting jobs and reducing expenses as Americans pull back after a period of aggressive inflation.",
+        "url": "https://www.cnbc.com/2024/02/18/companies-2024-cost-cuts.html",
+        "urlToImage": "https://image.cnbcfm.com/api/v1/image/107373193-1707861247487-gettyimages-1458551911-layoffs-illustration.jpeg?v=1708186647&w=1920&h=1080",
+        "publishedAt": "2024-02-18T12:00:01Z",
+        "content": "Corporate America has a message for Wall Street: It's serious about cutting costs this year.\r\nFrom toy and cosmetics makers to office software sellers, executives across sectors have announced layoff… [+10221 chars]"
+      },
+      {
+        "source": {
+          "id": "fox-news",
+          "name": "Fox News"
+        },
+        "author": "Anders Hagstrom",
+        "title": "Israel 'outright rejects' foreign efforts to create Palestinian state after Hamas war, Netanyahu declares - Fox News",
+        "description": "Israel would \"outright reject\" any attempt by foreign powers to impose a Palestinian state on Israel, Prime Minister Benjamin Netanyahu declared Sunday.",
+        "url": "https://www.foxnews.com/politics/israel-outright-rejects-foreign-efforts-create-palestinian-state-hamas-war-netanyahu-declares",
+        "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2024/01/AP24018751306141.jpg",
+        "publishedAt": "2024-02-18T11:47:00Z",
+        "content": "Join Fox News for access to this content\r\nPlus get unlimited access to thousands of articles, videos and more with your free account!\r\nPlease enter a valid email address.\r\nBy entering your email, you… [+3527 chars]"
+      },
+      {
+        "source": {
+          "id": "cnn",
+          "name": "CNN"
+        },
+        "author": "Edward-Isaac Dovere",
+        "title": "Inside Kamala Harris’ quiet effort to break through the Biden campaign’s information bubble - CNN",
+        "description": "With Democratic leaders around the country panicking over President Joe Biden’s reelection campaign, Vice President Kamala Harris has quietly been adding meetings, phone calls, deliberate run-ins made to feel happenstance.",
+        "url": "https://www.cnn.com/2024/02/18/politics/kamala-harris-biden-reelection-effort/index.html",
+        "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/240216111741-kamala-harris-muerte-alexey-navalny-munich-alemania.jpg?c=16x9&q=w_800,c_fill",
+        "publishedAt": "2024-02-18T11:00:00Z",
+        "content": "For some, its been a conversation off to the side at the White House congressional holiday party. Others have gathered at actress Eva Longorias house in Los Angeles. Still more have huddled on Air Fo… [+12346 chars]"
+      },
+      {
+        "source": {
+          "id": "fox-news",
+          "name": "Fox News"
+        },
+        "author": "Peter Aitken",
+        "title": "Space surgery experiment could provide pathway for medical care in Earth's most remote regions - Fox News",
+        "description": "Virtual Incision believes the successful demonstration of MIRA would mean that the system could help medical professionals assist remote rural communities.",
+        "url": "https://www.foxnews.com/science/space-surgery-experiment-provide-pathway-medical-care-earths-remote-regions",
+        "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2024/02/VIC-NASA-Tele-26.jpg",
+        "publishedAt": "2024-02-18T11:00:00Z",
+        "content": "Join Fox News for access to this content\r\nPlus get unlimited access to thousands of articles, videos and more with your free account!\r\nPlease enter a valid email address.\r\nBy entering your email, you… [+4025 chars]"
+      },
+      {
+        "source": {
+          "id": "financial-times",
+          "name": "Financial Times"
+        },
+        "author": null,
+        "title": "Year of the Dragon opens on high note for China's economy - Financial Times",
+        "description": "Tourist numbers exceed pre-pandemic levels but spending per traveller is down",
+        "url": "https://www.ft.com/content/53e66b03-9d29-4580-88cf-8090e534747b",
+        "urlToImage": null,
+        "publishedAt": "2024-02-18T10:53:03Z",
+        "content": "Then $199 for 12 months. Insight and expertise in your hands with the iconic FT print edition, delivered Monday to Saturday."
+      },
+      {
+        "source": {
+          "id": "associated-press",
+          "name": "Associated Press"
+        },
+        "author": "JILL LAWLESS",
+        "title": "BAFTA: ‘Oppenheimer’ could smash a 53-year-old record - The Associated Press",
+        "description": "Atom-bomb epic “Oppenheimer” could smash records at the British Academy Film Awards if it makes good on its field-leading 13 nominations. Christopher Nolan’s biopic is up for trophies including best film, best director and best actor for star Cillian Murphy. …",
+        "url": "https://apnews.com/article/britain-bafta-film-awards-oppenheimer-220af1ec73e47e6222abe2b0934cddc8",
+        "urlToImage": "https://dims.apnews.com/dims4/default/2c7b5ad/2147483647/strip/true/crop/4176x2349+0+218/resize/1440x810!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F79%2F47%2F18fa1613984a53cbe681832a7bdb%2F5ec776d0a0ff418bb1f6ebebceeef5cc",
+        "publishedAt": "2024-02-18T10:46:24Z",
+        "content": "LONDON (AP) Atom-bomb epic Oppenheimer could smash a 53-year-old record at the British Academy Film Awards on Sunday if it makes good on its field-leading 13 nominations.\r\nChristopher Nolan s biopic … [+4065 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "Daily Beast"
+        },
+        "author": "Reese Gorman",
+        "title": "Trump Unveils New MAGA Merch—Gold Sneakers and Perfume - The Daily Beast",
+        "description": "The gold sneakers are only available for three days and customers are limited to three pairs each.",
+        "url": "https://www.thedailybeast.com/trump-unveils-new-maga-merch-at-sneaker-congold-sneakers-and-perfume",
+        "urlToImage": "https://img.thedailybeast.com/image/upload/c_crop,d_placeholder_euli9k,h_3211,w_5709,x_0,y_110/dpr_2.0/c_limit,w_740/fl_lossy,q_auto/v1708204893/GettyImages-2018463652_tyabl6",
+        "publishedAt": "2024-02-18T09:29:23Z",
+        "content": "First there were MAGA hats, shirts and flags Now there are gold shoes.\r\nFormer President Donald Trump unveiled his newest line of self-branded merch at Sneaker Con in Philadelphia, Pennsylvania, on S… [+2686 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "The Official Website of the Ultimate Fighting Championship"
+        },
+        "author": null,
+        "title": "UFC 298: Volkanovski vs Topuria Main Card Results | Winner Interviews, Highlights And More From Anaheim - UFC",
+        "description": "See The Fight Results, Watch Post-Fight Interviews With The Main Card Winners And More From UFC 298: Volkanovski vs Topuria, Live From Honda Center In Anaheim",
+        "url": "https://www.ufc.com/news/main-card-results-highlights-winner-interviews-ufc-298-volkanovski-vs-topuria",
+        "urlToImage": "https://dmxg5wxfqgb4u.cloudfront.net/styles/card/s3/2024-02/021624-volk-topuria-ufc-298-GettyImages-2016533674.jpg?itok=uASnFn62",
+        "publishedAt": "2024-02-18T08:14:06Z",
+        "content": "There were few moments of inactivity in this one, as if the 135-pound contenders werent trading strikes and looking for angles, they were clinched, grappling, and grinding. While Cejudo started well,… [+437 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "Hindustan Times"
+        },
+        "author": "Sumanti Sen",
+        "title": "Truckers refuse to accept loads from NYC after Trump's civil fraud trial outcome - Hindustan Times",
+        "description": "Trucker Chicago Ray posted a video where he claimed that some of his colleagues have decided to stop making deliveries to New York City",
+        "url": "https://www.hindustantimes.com/world-news/us-news/truckers-refuse-to-accept-loads-from-nyc-after-donald-trump-slapped-with-a-355m-fine-in-fraud-case-101708236297585.html",
+        "urlToImage": "https://www.hindustantimes.com/ht-img/img/2024/02/18/1600x900/USA_1708236582942_1708236583150.JPG",
+        "publishedAt": "2024-02-18T06:12:28Z",
+        "content": "Truckers who support Donald Trump are refusing to driveto New York City aftera New York judge ordered the former president to pay nearly $355 million in penalties in a civil fraud case. Chicago Ray, … [+1684 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "Variety"
+        },
+        "author": "Terry Flores",
+        "title": "‘Spider-Man: Across the Spider-Verse’ Wraps Up Top Feature Prize at 51st Annie Awards - Variety",
+        "description": "'Spider-Man: Across the Spider-Verse' won seven Annie Awards, including best feature.",
+        "url": "https://variety.com/2024/tv/awards/spider-man-across-the-spider-verse-annie-awards-1235915074/",
+        "urlToImage": "https://variety.com/wp-content/uploads/2023/11/MCDSPMA_SP036.jpg?crop=384px%2C0px%2C2235px%2C1257px&resize=1000%2C563",
+        "publishedAt": "2024-02-18T05:53:00Z",
+        "content": "Sony Pictures Animation’s “Spider-Man: Across the Spider-Verse” swung its way to victory at the 51st Annie Awards, snatching up seven prizes, including best feature. It was also a good night for Netf… [+8257 chars]"
+      },
+      {
+        "source": {
+          "id": "the-wall-street-journal",
+          "name": "The Wall Street Journal"
+        },
+        "author": "Selina Cheng",
+        "title": "Even the World's Biggest Electric-Vehicle Market Is Slowing - The Wall Street Journal",
+        "description": "China’s government is urging carmakers to expand overseas and BYD is ramping up export targets",
+        "url": "https://www.wsj.com/business/autos/china-electric-vehicle-demand-slowing-b4e78636",
+        "urlToImage": "https://images.wsj.net/im-923697/social",
+        "publishedAt": "2024-02-18T04:57:57Z",
+        "content": null
+      },
+      {
+        "source": {
+          "id": "cbs-news",
+          "name": "CBS News"
+        },
+        "author": "CBS New York Team",
+        "title": "Archdiocese of New York condemns funeral for transgender activist Cecilia Gentili at St. Patrick's Cathedral - CBS New York",
+        "description": "Pews at the historic Catholic church were packed with mourners for transgender activist Cecilia Gentili on Thursday.",
+        "url": "https://www.cbsnews.com/newyork/news/cecilia-gentili-funeral-service-condemned-archdiocese-of-new-york/",
+        "urlToImage": "https://assets2.cbsnewsstatic.com/hub/i/r/2024/02/18/c0d64c29-436c-406b-a963-f752cbb61143/thumbnail/1200x630/2b828b326b073a560587ea5c1bd0252d/st-pats-outrage-cecilia-wcbs9bkm-hi-res-still.jpg?v=2a01790210e495d24a119503c08f840d",
+        "publishedAt": "2024-02-18T04:43:00Z",
+        "content": "NEW YORK -- The Archdiocese of New York is condemning the funeral service held for transgender activist and performer Cecilia Gentili at St. Patrick's Cathedral this week.\r\nThursday, pews at the hist… [+1297 chars]"
+      },
+      {
+        "source": {
+          "id": "cbs-news",
+          "name": "CBS News"
+        },
+        "author": "Peter Van Sant",
+        "title": "How slain Las Vegas journalist Jeff German may have helped capture his own killer - CBS News",
+        "description": "Crucial DNA evidence found under the fingernails of reporter Jeff German led investigators to Robert Telles, the man charged with killing him.",
+        "url": "https://www.cbsnews.com/news/jeff-german-slain-las-vegas-journalist-robert-telles-arrest-dna-evidence/",
+        "urlToImage": "https://assets2.cbsnewsstatic.com/hub/i/r/2022/09/06/0d9c1ab6-500a-4e04-b5d5-e33eaaea5f4f/thumbnail/1200x630g6/238e0eaaafc674122153c09bd7b779a2/gettyimages-1242951169.jpg?v=2a01790210e495d24a119503c08f840d",
+        "publishedAt": "2024-02-18T04:21:00Z",
+        "content": "Las Vegas Review-Journal investigative reporter Jeff German was a man who lived for his job. And as it turns out, may have died for it. In September 2022, he was stabbed to death by an assailant outs… [+35305 chars]"
+      }
+    ]
+  }
