@@ -12,7 +12,7 @@ export default class NewsComponent extends Component {
   constructor() {
     super();
     this.state = {
-      articles: this.article,
+      articles: [],
       totalResult : 0,
     };
   }
@@ -60,7 +60,7 @@ export default class NewsComponent extends Component {
         {this.loading && <Loader/>}
 
         <InfiniteScroll
-                  dataLength={this.state.articles.length}
+                 dataLength={this.state.articles?.length || 0}
                   next={this.fetchMoreData}
                   hasMore={this.state.articles.length !== this.state.totalResult }
                   loader={<Loader/>}
