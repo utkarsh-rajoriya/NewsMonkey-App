@@ -59,12 +59,12 @@ export default class NewsComponent extends Component {
        
         {this.loading && <Loader/>}
 
-        <InfiniteScroll
+        {/* <InfiniteScroll
                  dataLength={this.state.articles?.length || 0}
                   next={this.fetchMoreData}
                   hasMore={this.state.articles.length !== this.state.totalResult }
                   loader={<Loader/>}
-                >
+                > */}
         
         <div className="gap-3 my-3  d-flex flex-wrap align-items-evenly justify-content-evenly ">
       
@@ -86,7 +86,7 @@ export default class NewsComponent extends Component {
               );
             })}
         </div>
-        </InfiniteScroll>
+        {/* </InfiniteScroll> */}
         
       </>
     );
