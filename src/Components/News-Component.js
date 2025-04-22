@@ -12,13 +12,13 @@ export default class NewsComponent extends Component {
   constructor() {
     super();
     this.state = {
-      articles: [],
+      articles: this.article,
       totalResult : 0,
     };
   }
 
   updatePage = async () => {
-    let url = `https://newsapi.org/v2/top-headlines?country=us&category=${this.props.catogery}&apiKey=dd50ae94f04c4dcab2480bcc76c3207d&pageSize=${this.props.pageSize}&page=${this.page}`;
+    let url = `https://newsapi.org/v2/top-headlines?country=in&category=${this.props.catogery}&apiKey=dd50ae94f04c4dcab2480bcc76c3207d&pageSize=${this.props.pageSize}&page=${this.page}`;
     this.props.setProgress(10)
     this.loading = true;
     let data = await fetch(url);
@@ -38,7 +38,7 @@ export default class NewsComponent extends Component {
 
   fetchMoreData = async() => {
     this.page = this.page + 1;
-    let url = `https://newsapi.org/v2/top-headlines?country=us&category=${this.props.catogery}&apiKey=dd50ae94f04c4dcab2480bcc76c3207d&pageSize=${this.props.pageSize}&page=${this.page}`;
+    let url = `https://newsapi.org/v2/top-headlines?country=in&category=${this.props.catogery}&apiKey=dd50ae94f04c4dcab2480bcc76c3207d&pageSize=${this.props.pageSize}&page=${this.page}`;
     this.loading = true;
     let data = await fetch(url);
     let news = await data.json();
@@ -59,12 +59,12 @@ export default class NewsComponent extends Component {
        
         {this.loading && <Loader/>}
 
-        {/* <InfiniteScroll
-                 dataLength={this.state.articles?.length || 0}
+        <InfiniteScroll
+                  dataLength={this.state.articles.length}
                   next={this.fetchMoreData}
                   hasMore={this.state.articles.length !== this.state.totalResult }
                   loader={<Loader/>}
-                > */}
+                >
         
         <div className="gap-3 my-3  d-flex flex-wrap align-items-evenly justify-content-evenly ">
       
@@ -86,7 +86,7 @@ export default class NewsComponent extends Component {
               );
             })}
         </div>
-        {/* </InfiniteScroll> */}
+        </InfiniteScroll>
         
       </>
     );
